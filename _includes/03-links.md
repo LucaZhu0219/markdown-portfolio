@@ -1,2 +1,2 @@
-[GitHub] (http://github.com)
-[text](https://example.com)
+[GitHub](http://github.com)
+
